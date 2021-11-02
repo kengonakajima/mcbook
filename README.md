@@ -1,5 +1,6 @@
 # Minecraftを支える技術
 
+- Java版と統合版
 - Spigot APIの紹介
 - Spigotのソースを読む
 - wiki.vgを読む
