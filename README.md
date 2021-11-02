@@ -8,5 +8,6 @@
 - Java版のJARを活用する
 - blockstatesを読む
 - JSONモデルを読む
+- Anvilセーブデータを読む
 - RakNet
 
